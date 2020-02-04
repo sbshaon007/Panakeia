@@ -1,8 +1,8 @@
 /* 
 Author name 	: SB Shaon;
 Mail Address 	: sbdb12345@gmail.com;
-Site url 		:
-GPL license		: 3.4.1;
+Site url 	:
+GPL license	: 3.4.1;
 */
 
 /* 
@@ -339,6 +339,7 @@ GPL license		: 3.4.1;
 	padding-right: 13px;
 }
 
+
 /* hero section */
 
 .hero {
@@ -376,9 +377,142 @@ text-align: center;
 	color: #161616;
 }
 }
+/* news */
+
+
+
+
+
+
+
+
+/* newsletter */
+
+.cstm-btn-three {
+    
+    position: absolute;
+    background-color: #ffffff;
+	color:#612316;
+    padding: 7px 29px;
+    border-radius: 30px;
+    border: none;
+    right: 16px;
+    bottom: 1px;
+}
+
+
+
+
+
+
+
+/* bland */
+
+.cstm-btn-four {
+	margin: 23px 60px;
+
+}
+
+.cstm-btn-five {
+	margin: 23px 60px;
+
+	
+}
+
+
+
+
+
+
+
+
+/* placerat */
+
+.rat-one {
+	margin-bottom: 40px;
+}
+
+.rat-two {
+
+}
+
+.rat-three {
+	margin-top: 40px; 
+}
+
+
+
+
+
+
+
+/* footer */
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* small device */
 @media (min-width: 500.01px) and (max-width: 768px) {
+
+/* navigation header*/
+
+
+
+
+
+
+
+
+/* hero*/
+
+.hero-title {
+    padding-top: 230px;
+    text-align: center;
+}
+
+
+
+
+
+
+/* news*/
+
+
+
+
+
+/* newsletter*/
+
+
+
+
+/* bland*/
+
+
+
+
+
+
+/* placerat */
+
+
+
+
+
+
+
+
+/* footer*/
+
 
 }
 
